@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "malvin~luFRUDzZ#axWRgZ7t9LFBPEAhUZ1znOdiseIQDluKfglv_1ks1mE",
 // add your Session Id make sure it starts with malvin~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
@@ -50,7 +50,7 @@ MODE: process.env.MODE || "public",
 // add alive msg here 
 
 
-        STICKER_NAME: process.env.STICKER_NAME || "ᴍᴀʟᴠɪɴ-xᴅ",
+        STICKER_NAME: process.env.STICKER_NAME || "sanju",
 // type sticker pack name 
 
         CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -62,13 +62,13 @@ MODE: process.env.MODE || "public",
           DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-          OWNER_NUMBER: process.env.OWNER_NUMBER || "26371475XXXX",
+          OWNER_NUMBER: process.env.OWNER_NUMBER || "919728893187,+32460200787",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
+OWNER_NAME: process.env.OWNER_NAME || "YAMRAJ",
 // add bot owner name
 
-              DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ*",
+              DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ YAMRAJ ᴋɪɴɢ*",
 // add bot owner name    
 
         READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -103,7 +103,7 @@ OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
    READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
 
-     DEV: process.env.DEV || "263780166288",
+     DEV: process.env.DEV || "919728893187",
 //replace with your whatsapp number    
     
     ANTI_VV: process.env.ANTI_VV || "true",
@@ -112,29 +112,21 @@ OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
       ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log", 
 // change it to 'same' if you want to resend deleted message in same chat 
 
-      AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
+      AUTO_RECORDING: process.env.AUTO_RECORDING || "true",
 // make it true for auto recoding 
 
 version: process.env.version || "4.1.5",
 
     
-START_MSG: process.env.START_MSG || `*Hᴇʟʟᴏ ᴛʜᴇʀᴇ ᴍᴀʟᴠɪɴ xᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ! 👋🏻* 
+START_MSG: process.env.START_MSG || `*Hᴇʟʟᴏ ᴛʜᴇʀᴇ sanju xᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ! 👋🏻* 
 
-    *ᴋᴇᴇᴘ ᴏɴ ᴜsɪɴɢ ᴍᴀʟᴠɪɴ ᴍᴏᴅs🚩* 
-
-> Joɪɴ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ (ᴀ ᴍᴜsᴛ): ⤵️  
-    https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
-
-> sᴜʙsᴄʀɪʙᴇ ʏᴛ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴛᴜᴛᴏʀɪᴀʟs
-    https://youtube.com/@malvintech2
+    *ᴋᴇᴇᴘ ᴏɴ ᴜsɪɴɢ sanju ᴍᴏᴅs🚩* 
 
     - *ʏᴏᴜʀ ʙᴏᴛ ᴘʀᴇғɪx: ➡️[ . ]*
 > - ʏᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ ᴜʀ ᴘʀᴇғɪx ᴜsɪɴɢ ᴛʜᴇ .ᴘʀᴇғɪx ᴄᴏᴍᴍᴀɴᴅ
 
-> ᴅᴏɴᴛ ғᴏʀɢᴇᴛ ᴛᴏ sʜᴀʀᴇ, sᴛᴀʀ &ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ⬇️ 
-    https://github.com/XdKing2/MALVIN-XD
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ 🇿🇼`
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ yamraj ᴋɪɴɢ `
 };
 
 
